@@ -1,10 +1,10 @@
-# Boomer Advise App
+# Boomer Advise App 👨‍🦲
 
-Load the webpage, let the boomer, boom you!
+Load the app, let the boomer, boom you!
 
-#### Screenshots
+#### Screenshots ([🎉👉 Live here](https://anburocky3.github.io/advise-slip-dom) )
 
-[Yet to be uploaded]
+![Booomer Advice](./screenshots/1.png)
 
 ## 🎉 Check it yourself!
 

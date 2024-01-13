@@ -6,7 +6,7 @@ const API_URL = "https://api.adviceslip.com/advice";
 refreshBtnEl.style.display = "none";
 
 refreshBtnEl.addEventListener("click", () => {
-  window.location.href = "/";
+  window.location.href = "./index.html";
 });
 
 // // // Call the API.
